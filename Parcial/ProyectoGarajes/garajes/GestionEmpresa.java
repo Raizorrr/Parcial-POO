@@ -1,7 +1,7 @@
 package garajes;
 
 import Vehiculos.*;
-import excepciones.*;
+import excepciones.*;;
 
 import java.util.Scanner;
 
